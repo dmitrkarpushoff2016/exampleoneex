@@ -21,7 +21,14 @@
           <div class="navlist" >
         <div id="menu" >Задание 1<a id=“Up”></a></div>
         <ol class="olol">
+          <li>
           <img src="5TKbmAPALi0[1].jpg" class="ex1" alt="Ссылка на изображение"></a> 
+          </li>
+           <li>
+          <img src="Ra26U-93hbY.jpg" class="ex1" alt="Ссылка на изображение"></a> 
+          </li>
+          <li>
+          <img src="VJyoszPVFec.jpg" class="ex1" alt="Ссылка на изображение"></a> 
           </li>
         </ol>
       </div>
